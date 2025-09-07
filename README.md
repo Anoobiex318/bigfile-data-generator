@@ -17,8 +17,16 @@ It is designed for **Data Engineering ETL projects**, where realistic, large-sca
 - Cross-platform support (Windows, Linux, macOS).
 
 ---
+## 🖼️ Example Screenshot
+
+Here’s what the console looks like while generating a file:
+
+![Datagen Console Screenshot](main-console.png)
+
 
 ## 🚀 Usage
+
+
 
 Run the tool:
 

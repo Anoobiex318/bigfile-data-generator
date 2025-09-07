@@ -36,3 +36,23 @@ Install PyInstaller
 
 pip install pyinstaller
 pyinstaller --onefile --console datagen.py --icon=icon.ico
+
+
+🛠️ Build Instructions
+🔹 MacOS (Binary build)
+
+Install Python
+ (3.9+ recommended).
+
+brew install python3
+pip3 install pyinstaller
+
+pyinstaller --onefile --console datagen.py
+
+🛠️ Build Instructions
+🔹 Linux (Binary build)
+
+sudo apt update && sudo apt install -y python3 python3-pip
+pip install pyinstaller
+pyinstaller --onefile --console datagen.py
+
